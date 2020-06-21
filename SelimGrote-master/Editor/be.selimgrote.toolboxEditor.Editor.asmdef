@@ -1,0 +1,17 @@
+{
+    "name": "be.selimgrote.toolbox.Editor",
+    "references": [
+        "GUID:ee02cbc788c11c240a5e876b1194054f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
